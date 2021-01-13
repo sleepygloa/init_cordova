@@ -1,1 +1,1 @@
-# init_cordova
+# 코르도바 세팅
